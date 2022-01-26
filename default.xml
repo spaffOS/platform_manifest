@@ -1092,5 +1092,5 @@
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
-  <include name="snippets/hentai.xml" />
+  <include name="snippets/spaff.xml" />
 </manifest>
